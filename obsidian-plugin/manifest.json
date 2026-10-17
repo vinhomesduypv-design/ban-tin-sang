@@ -1,0 +1,9 @@
+{
+  "id": "ban-tin-sang",
+  "name": "Bản tin sáng",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Tự tải bản tin sáng mới từ kho GitHub vào vault khi mở Obsidian.",
+  "author": "Claude cho anh Duy",
+  "isDesktopOnly": false
+}
